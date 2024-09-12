@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Find my resume here: [Resume](https://github.com/JialongHe/resume/blob/master/Resume-Jialong%20He.pdf)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JialongHe/JialongHe/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JialongHe/JialongHe/output/github-contribution-grid-snake.svg">
